@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>WeatherForecast_Images/anh/weatherwithyou.jpg</file>
+    <file>WeatherForecast_Images/anh/sun2.png</file>
+    <file>WeatherForecast_Images/anh/rain2.png</file>
+    <file>WeatherForecast_Images/anh/rain1.gif</file>
+    <file>WeatherForecast_Images/anh/rain.png</file>
+    <file>WeatherForecast_Images/anh/Icons8-Ios7-Weather-Partly-Cloudy-Rain.ico</file>
+    <file>WeatherForecast_Images/anh/cool.png</file>
+    <file>WeatherForecast_Images/anh/close.png</file>
+    <file>WeatherForecast_Images/anh/30744.png</file>
+    <file>WeatherForecast_Images/anh/8ccb55af.png</file>
+    <file>WeatherForecast_Images/images/021-cloud.png</file>
+    <file>WeatherForecast_Images/images/021-cloudy-1.png</file>
+    <file>WeatherForecast_Images/images/021-sun.png</file>
+    <file>WeatherForecast_Images/images/021-tornado.png</file>
+    <file>WeatherForecast_Images/images/021-snowing-1.png</file>
+    <file>WeatherForecast_Images/images/021-snowing.png</file>
+    <file>WeatherForecast_Images/images/021-rain-2.png</file>
+    <file>WeatherForecast_Images/images/021-rain-1.png</file>
+    <file>WeatherForecast_Images/images/021-storm.png</file>
+    <file>WeatherForecast_Images/images/021-rain.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,299 @@
+{
+   "200": {
+      "name": "Thunderstorm",
+      "description": "thunderstorm with light rain",
+      "img": "021-storm.png"
+   },
+   "201": {
+      "name": "Thunderstorm",
+      "description": "thunderstorm with rain",
+      "img": "021-storm.png"
+   },
+   "202": {
+      "name": "Thunderstorm",
+      "description": "thunderstorm with heavy rain",
+      "img": "021-storm.png"
+   },
+   "210": {
+      "name": "Thunderstorm",
+      "description": "Giông bão nhẹ",
+      "img": "021-storm.png"
+   },
+   "211": {
+      "name": "Thunderstorm",
+      "description": "Giông",
+      "img": "021-storm.png"
+   },
+   "212": {
+      "name": "Thunderstorm",
+      "description": "Giông bão lớn",
+      "img": "021-storm.png"
+   },
+   "221": {
+      "name": "Thunderstorm",
+      "description": "Giông bão",
+      "img": "021-storm.png"
+   },
+   "230": {
+      "name": "Thunderstorm",
+      "description": "Giông bão với mưa phùn nhẹ",
+      "img": "021-storm.png"
+   },
+   "231": {
+      "name": "Thunderstorm",
+      "description": "Giông bão có mưa phùn",
+      "img": "021-storm.png"
+   },
+   "232": {
+      "name": "Thunderstorm",
+      "description": "Giông bão với mưa phùn lớn",
+      "img": "021-storm.png"
+   },
+   "300": {
+      "name": "Drizzle",
+      "description": "Mưa phùn cường độ nhẹ",
+      "img": "021-rain.png"
+   },
+   "301": {
+      "name": "Drizzle",
+      "description": "Mưa phùn",
+      "img": "021-rain.png"
+   },
+   "302": {
+      "name": "Drizzle",
+      "description": "Mưa phùn cường độ nặng",
+      "img": "021-rain.png"
+   },
+   "310": {
+      "name": "Drizzle",
+      "description": "Mưa phùn cường độ nhẹ",
+      "img": "021-rain.png"
+   },
+   "311": {
+      "name": "Drizzle",
+      "description": "Mưa phùn",
+      "img": "021-rain.png"
+   },
+   "312": {
+      "name": "Drizzle",
+      "description": "Mưa phùn cường độ mạnh",
+      "img": "021-rain.png"
+   },
+   "313": {
+      "name": "Drizzle",
+      "description": "Mưa rào và mưa phùn",
+      "img": "021-rain.png"
+   },
+   "314": {
+      "name": "Drizzle",
+      "description": "Mưa rào to và mưa phùn",
+      "img": "021-rain.png"
+   },
+   "321": {
+      "name": "Drizzle",
+      "description": "Mưa phùn",
+      "img": "021-rain.png"
+   },
+   "500": {
+      "name": "Rain",
+      "description": "Mưa nhỏ",
+      "img": "021-rain-1.png"
+   },
+   "501": {
+      "name": "Rain",
+      "description": "Mưa vừa",
+      "img": "021-rain-1.png"
+   },
+   "502": {
+      "name": "Rain",
+      "description": "Mưa lớn",
+      "img": "021-rain-2.png"
+   },
+   "503": {
+      "name": "Rain",
+      "description": "Mưa rất to",
+      "img": "021-rain-2.png"
+   },
+   "504": {
+      "name": "Rain",
+      "description": "Mưa cực lớn",
+      "img": "021-rain-2.png"
+   },
+   "511": {
+      "name": "Rain",
+      "description": "Mưa lạnh",
+      "img": "021-rain-2.png"
+   },
+   "520": {
+      "name": "Rain",
+      "description": "Mưa rào cường độ nhẹ",
+      "img": "021-rain-2.png"
+   },
+   "521": {
+      "name": "Rain",
+      "description": "Mưa rào",
+      "img": "021-rain-2.png"
+   },
+   "522": {
+      "name": "Rain",
+      "description": "Mưa rào cường độ lớn",
+      "img": "021-rain-2.png"
+   },
+   "531": {
+      "name": "Rain",
+      "description": "Mưa rào rải rác",
+      "img": "021-rain-2.png"
+   },
+   "600": {
+      "name": "Snow",
+      "description": "Tuyết nhẹ",
+      "img": "021-snowing.png"
+   },
+   "601": {
+      "name": "Snow",
+      "description": "Tuyết",
+      "img": "021-snowing.png"
+   },
+   "602": {
+      "name": "Snow",
+      "description": "Tuyết nặng",
+      "img": "021-snowing-1.png"
+   },
+   "611": {
+      "name": "Snow",
+      "description": "Mưa đá",
+      "img": "021-snowing-1.png"
+   },
+   "612": {
+      "name": "Snow",
+      "description": "Mưa có tuyết",
+      "img": "021-snowing-1.png"
+   },
+   "613": {
+      "name": "Snow",
+      "description": "Mưa tuyết",
+      "img": "021-snowing-1.png"
+   },
+   "615": {
+      "name": "Snow",
+      "description": "Mưa nhẹ và có tuyết",
+      "img": "021-snowing-1.png"
+   },
+   "616": {
+      "name": "Snow",
+      "description": "Có mưa và tuyết",
+      "img": "021-snowing-1.png"
+   },
+   "620": {
+      "name": "Snow",
+      "description": "Mưa tuyết nhẹ",
+      "img": "021-snowing-1.png"
+   },
+   "621": {
+      "name": "Snow",
+      "description": "Tuyết rơi",
+      "img": "021-snowing-1.png"
+   },
+   "622": {
+      "name": "Snow",
+      "description": "Tuyết rơi nặng",
+      "img": "021-snowing-1.png"
+   },
+   "701": {
+      "name": "Mist",
+      "description": "Sương mù",
+      "img": "021-tornado.png"
+   },
+   "711": {
+      "name": "Smoke",
+      "description": "Sương khói",
+      "img": "021-tornado.png"
+   },
+   "721": {
+      "name": "Haze",
+      "description": "Có hơi mù",
+      "img": "021-tornado.png"
+   },
+   "731": {
+      "name": "Dust",
+      "description": "Cát/ bụi xoáy",
+      "img": "021-tornado.png"
+   },
+   "741": {
+      "name": "Fog",
+      "description": "Sương mù",
+      "img": "021-tornado.png"
+   },
+   "751": {
+      "name": "Sand",
+      "description": "Cát",
+      "img": "021-tornado.png"
+   },
+   "761": {
+      "name": "Dust",
+      "description": "Bụi bặm",
+      "img": "021-tornado.png"
+   },
+   "762": {
+      "name": "Ash",
+      "description": "Tro núi lửa",
+      "img": "021-tornado.png"
+   },
+   "771": {
+      "name": "Squall",
+      "description": "squalls",
+      "img": "021-tornado.png"
+   },
+   "781": {
+      "name": "Tornado",
+      "description": "Lốc xoáy",
+      "img": "021-tornado.png"
+   },
+   "800": {
+      "name": "Clear",
+      "description": "Bầu trời quang đãng",
+      "img": "021-sun.png"
+   },
+   "801": {
+      "name": "Clouds",
+      "description": "Ít mây: 11-25%",
+      "img": "021-cloudy-1.png"
+   },
+   "802": {
+      "name": "Clouds",
+      "description": "Mây rải rác: 25-50%",
+      "img": "021-cloudy-1.png"
+   },
+   "803": {
+      "name": "Clouds",
+      "description": "Mây tan: 51-84%",
+      "img": "021-cloud.png"
+   },
+   "804": {
+      "name": "Clouds",
+      "description": "Mây u ám: 85-100%",
+      "img": "021-cloud.png"
+   },
+   "notice": {
+      "Thunderstorm": [
+         "Trời đang có bão, bạn nên hạn chế đi ra đường lúc này nhé !!!",
+         "Bạn đừng nên ra đường vào lúc này nha <3"
+      ],
+      "Rain": [
+         "Bạn nhớ mang ô khi đi ra đường đấy nha !!!",
+         "Mày ra đường bây giờ thì ướt ráng chịu",
+         "Trời mưa không phải thời điểm để hẹn hò"
+      ],
+      "Clear": [
+         "Nắng phải có mũ, không mang thì cháy nắng chetmemayluon",
+         "Nhớ thoa kem chống nắng nhớ",
+         "Tôi nghĩ bạn nên nằm ở nhà bật máy lạnh(nếu nhà bạn có máy lạnh)"
+      ],
+      "Clouds": [
+         "Trời mát lắm, dắt thú cưng đi dạo thôi nào!!!",
+         "Bầu trời nhiều mây cũng chẳng thích hợp cho việc chụp ảnh nên thôi bạn cứ ở nhà!",
+         "Nào hãy cùng ra đường tận hưởng không khí mát lành này nhé!"
+
+      ]
+   }
+}
